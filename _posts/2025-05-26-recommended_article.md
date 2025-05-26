@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Cloud computing applications for biomedical science: A perspective
+title: Check this paper!
+subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
