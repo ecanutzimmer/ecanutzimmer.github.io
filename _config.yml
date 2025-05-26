@@ -1,5 +1,5 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
+title: Welcome to Enric Canut's website
 author: Enric Canut
 
 ###############################################
@@ -36,12 +36,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
+  email: "enric.canut@estudiants.urv.cat"
+#  facebook: ferranad
+#  github: ferranad
+#  twitter: ferranad
+#  youtube: "@ferranad"
+#  linkedin: ferranaran
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,10 +75,6 @@ share-links-active:
   linkedin: true
   vk: false
 
-# How to display the link to your website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
-
 # Add the website title to the title of every page
 title-on-all-pages: true
 
@@ -111,7 +107,7 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#5F9EA0"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
